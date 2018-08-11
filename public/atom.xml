@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Research Catalogue Development Blog</title>
+  
+  
+  <link href="./atom.xml" rel="self"/>
+  
+  <link href="http://blog.researchcatalogue.net/"/>
+  <updated>2018-08-11T00:16:45.448Z</updated>
+  <id>http://blog.researchcatalogue.net/</id>
+  
+  <author>
+    <name>RC Team</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PHP 7 Upgrades in Development</title>
+    <link href="http://blog.researchcatalogue.net/2018/08/11/PHP-7-upgrades/"/>
+    <id>http://blog.researchcatalogue.net/2018/08/11/PHP-7-upgrades/</id>
+    <published>2018-08-11T00:07:12.000Z</published>
+    <updated>2018-08-11T00:16:45.448Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are currently working on upgrading to PHP 7 and we are in the final testing phase.  We are very much looking forwarding to realising the upgraded version soon.  There will be some major performance improvements….stay tuned.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We are currently working on upgrading to PHP 7 and we are in the final testing phase.  We are very much looking forwarding to realising
+        
+      
+    
+    </summary>
+    
+    
+      <category term="development" scheme="http://blog.researchcatalogue.net/tags/development/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Editor Redesign</title>
+    <link href="http://blog.researchcatalogue.net/2018/08/11/Editor-Redesign/"/>
+    <id>http://blog.researchcatalogue.net/2018/08/11/Editor-Redesign/</id>
+    <published>2018-08-10T22:52:02.000Z</published>
+    <updated>2018-08-11T00:16:59.924Z</updated>
+    
+    <content type="html"><![CDATA[<p>One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and created a more intuitive and cleaner looking layout.  It is possible to sort and search media files in the panel on the right hand side.  This panel can also be collapsed in order to make workspace presentation more similar to final presentation of the exposition.  There are now links to guide and the video tutorials in the editor as well as tool tips.  The tool history is also back and there is a new settings called “Show tool borders”, which controls the display of outlines of tools.  This makes it easier to locate empty tools. </p><p><img src="images/redesign.png" alt="Editor redesign"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and
+        
+      
+    
+    </summary>
+    
+    
+      <category term="editor" scheme="http://blog.researchcatalogue.net/tags/editor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SAR on github</title>
+    <link href="http://blog.researchcatalogue.net/2018/08/05/SAR-on-github/"/>
+    <id>http://blog.researchcatalogue.net/2018/08/05/SAR-on-github/</id>
+    <published>2018-08-05T10:21:30.000Z</published>
+    <updated>2018-08-11T00:16:36.532Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch" target="_blank" rel="noopener">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="development" scheme="http://blog.researchcatalogue.net/tags/development/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Madek</title>
+    <link href="http://blog.researchcatalogue.net/2018/08/03/Madek/"/>
+    <id>http://blog.researchcatalogue.net/2018/08/03/Madek/</id>
+    <published>2018-08-03T10:10:23.000Z</published>
+    <updated>2018-08-11T00:16:16.724Z</updated>
+    
+    <content type="html"><![CDATA[<p>We now have our first connection to an external repository: ZHdK’s <em>Medienarchiv der Künste</em> (Madek) <a href="https://medienarchiv.zhdk.ch/" target="_blank" rel="noopener">https://medienarchiv.zhdk.ch/</a>.  In the “Media”-tab on the right hand side of the workspace editor there are three subtabs: “Simple Media”, “Works” and “+”.  Clicking “+” opens a tab where you can establish a link to your Madek account.</p><p>In order to establish a connection to your Madek account, please go to <a href="https://medienarchiv.zhdk.ch/my/tokens" target="_blank" rel="noopener">https://medienarchiv.zhdk.ch/my/tokens</a> and create a new token with reading permissions. Once the token is created please copy it into the respective text field on the RC.  Now you can use any of your publicly visible media files from your Madek account. You drag them onto the workspace editor and they will be copied including title, subtitle, copyright owner and description.</p><p><img src="images/madek.png" alt="Madek Token Creation"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We now have our first connection to an external repository: ZHdK’s &lt;em&gt;Medienarchiv der Künste&lt;/em&gt; (Madek) &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="editor" scheme="http://blog.researchcatalogue.net/tags/editor/"/>
+    
+      <category term="repositories" scheme="http://blog.researchcatalogue.net/tags/repositories/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>New Issue Page</title>
+    <link href="http://blog.researchcatalogue.net/2018/07/31/Issue-Page/"/>
+    <id>http://blog.researchcatalogue.net/2018/07/31/Issue-Page/</id>
+    <published>2018-07-31T07:41:09.000Z</published>
+    <updated>2018-08-11T00:17:30.036Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have a new responsive issue page for published expositions! This makes it possible to group expositions and display an issue on a particular theme etc. as one entity on the RC. Expositions belonging to a certain issue are grouped and each issue has a thumbnail image and a description. All (published) issues are visible on the portal profile page. By default, however, issue pages are not publicly visible. </p><p><img src="images/issue_page.png" alt="Issue Page"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have a new responsive issue page for published expositions! This makes it possible to group expositions and display an issue on a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="administration" scheme="http://blog.researchcatalogue.net/tags/administration/"/>
+    
+      <category term="publishing" scheme="http://blog.researchcatalogue.net/tags/publishing/"/>
+    
+  </entry>
+  
+</feed>

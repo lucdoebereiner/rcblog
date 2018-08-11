@@ -2,6 +2,8 @@
 title: Madek
 date: 2018-08-03 12:10:23
 tags:
+	- editor 
+	- repositories
 ---
 
 We now have our first connection to an external repository: ZHdK's *Medienarchiv der Künste* (Madek) <https://medienarchiv.zhdk.ch/>.  In the "Media"-tab on the right hand side of the workspace editor there are three subtabs: "Simple Media", "Works" and "+".  Clicking "+" opens a tab where you can establish a link to your Madek account.
