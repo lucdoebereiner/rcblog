@@ -3,11 +3,11 @@
   <title>Research Catalogue Development Blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/rcblogpublic/atom.xml" rel="self"/>
   
-  <link href="http://blog.researchcatalogue.net/"/>
+  <link href="https://societyforartisticresearch.github.io/rcblogpublic/"/>
   <updated>2018-08-14T08:48:07.733Z</updated>
-  <id>http://blog.researchcatalogue.net/</id>
+  <id>https://societyforartisticresearch.github.io/rcblogpublic/</id>
   
   <author>
     <name>RC Team</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Text Editor</title>
-    <link href="http://blog.researchcatalogue.net/2018/08/13/Text-Editor/"/>
-    <id>http://blog.researchcatalogue.net/2018/08/13/Text-Editor/</id>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/13/Text-Editor/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/13/Text-Editor/</id>
     <published>2018-08-13T10:51:00.000Z</published>
     <updated>2018-08-14T08:48:07.733Z</updated>
     
@@ -38,22 +38,22 @@
     </summary>
     
     
-      <category term="editor" scheme="http://blog.researchcatalogue.net/tags/editor/"/>
+      <category term="editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor/"/>
     
-      <category term="text" scheme="http://blog.researchcatalogue.net/tags/text/"/>
+      <category term="text" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/text/"/>
     
-      <category term="import" scheme="http://blog.researchcatalogue.net/tags/import/"/>
+      <category term="import" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/import/"/>
     
-      <category term="export" scheme="http://blog.researchcatalogue.net/tags/export/"/>
+      <category term="export" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/export/"/>
     
-      <category term="responsive" scheme="http://blog.researchcatalogue.net/tags/responsive/"/>
+      <category term="responsive" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/responsive/"/>
     
   </entry>
   
   <entry>
     <title>PHP 7 Upgrades in Development</title>
-    <link href="http://blog.researchcatalogue.net/2018/08/11/PHP-7-upgrades/"/>
-    <id>http://blog.researchcatalogue.net/2018/08/11/PHP-7-upgrades/</id>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/PHP-7-upgrades/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/PHP-7-upgrades/</id>
     <published>2018-08-11T00:07:12.000Z</published>
     <updated>2018-08-11T00:16:45.448Z</updated>
     
@@ -72,18 +72,18 @@
     </summary>
     
     
-      <category term="development" scheme="http://blog.researchcatalogue.net/tags/development/"/>
+      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
   </entry>
   
   <entry>
     <title>Editor Redesign</title>
-    <link href="http://blog.researchcatalogue.net/2018/08/11/Editor-Redesign/"/>
-    <id>http://blog.researchcatalogue.net/2018/08/11/Editor-Redesign/</id>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/Editor-Redesign/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/Editor-Redesign/</id>
     <published>2018-08-10T22:52:02.000Z</published>
-    <updated>2018-08-11T00:16:59.924Z</updated>
+    <updated>2018-08-14T10:17:06.160Z</updated>
     
-    <content type="html"><![CDATA[<p>One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and created a more intuitive and cleaner looking layout.  It is possible to sort and search media files in the panel on the right hand side.  This panel can also be collapsed in order to make workspace presentation more similar to final presentation of the exposition.  There are now links to guide and the video tutorials in the editor as well as tool tips.  The tool history is also back and there is a new settings called “Show tool borders”, which controls the display of outlines of tools.  This makes it easier to locate empty tools. </p><p><img src="images/redesign.png" alt="Editor redesign"></p>]]></content>
+    <content type="html"><![CDATA[<p>One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and created a more intuitive and cleaner looking layout.  It is possible to sort and search media files in the panel on the right hand side.  This panel can also be collapsed in order to make workspace presentation more similar to final presentation of the exposition.  There are now links to guide and the video tutorials in the editor as well as tool tips.  The tool history is also back and there is a new settings called “Show tool borders”, which controls the display of outlines of tools.  This makes it easier to locate empty tools. </p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/redesign.png" alt="Editor redesign"></p>]]></content>
     
     <summary type="html">
     
@@ -98,14 +98,14 @@
     </summary>
     
     
-      <category term="editor" scheme="http://blog.researchcatalogue.net/tags/editor/"/>
+      <category term="editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor/"/>
     
   </entry>
   
   <entry>
     <title>SAR on github</title>
-    <link href="http://blog.researchcatalogue.net/2018/08/05/SAR-on-github/"/>
-    <id>http://blog.researchcatalogue.net/2018/08/05/SAR-on-github/</id>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
     <published>2018-08-05T10:21:30.000Z</published>
     <updated>2018-08-11T00:16:36.532Z</updated>
     
@@ -124,14 +124,14 @@
     </summary>
     
     
-      <category term="development" scheme="http://blog.researchcatalogue.net/tags/development/"/>
+      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
   </entry>
   
   <entry>
     <title>Madek</title>
-    <link href="http://blog.researchcatalogue.net/2018/08/03/Madek/"/>
-    <id>http://blog.researchcatalogue.net/2018/08/03/Madek/</id>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/03/Madek/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/03/Madek/</id>
     <published>2018-08-03T10:10:23.000Z</published>
     <updated>2018-08-11T00:16:16.724Z</updated>
     
@@ -150,16 +150,16 @@
     </summary>
     
     
-      <category term="editor" scheme="http://blog.researchcatalogue.net/tags/editor/"/>
+      <category term="editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor/"/>
     
-      <category term="repositories" scheme="http://blog.researchcatalogue.net/tags/repositories/"/>
+      <category term="repositories" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/repositories/"/>
     
   </entry>
   
   <entry>
     <title>New Issue Page</title>
-    <link href="http://blog.researchcatalogue.net/2018/07/31/Issue-Page/"/>
-    <id>http://blog.researchcatalogue.net/2018/07/31/Issue-Page/</id>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/07/31/Issue-Page/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/07/31/Issue-Page/</id>
     <published>2018-07-31T07:41:09.000Z</published>
     <updated>2018-08-11T00:17:30.036Z</updated>
     
@@ -178,9 +178,9 @@
     </summary>
     
     
-      <category term="administration" scheme="http://blog.researchcatalogue.net/tags/administration/"/>
+      <category term="administration" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/administration/"/>
     
-      <category term="publishing" scheme="http://blog.researchcatalogue.net/tags/publishing/"/>
+      <category term="publishing" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/publishing/"/>
     
   </entry>
   
