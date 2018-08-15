@@ -1,6 +1,6 @@
 ---
 title: Text Editor
-date: 2018-08-13 12:51
+date: 2018-08-15 11:08
 tags:
 	- editor 
 	- text
@@ -21,4 +21,4 @@ Because the source is simple text, we have also been able to provide import and 
 
 The documentation of the editor can be found [here](https://guide.researchcatalogue.net/#text-based-editor). 
 
-![text_editor_demo](https://societyforartisticresearch.github.io/rcblogpublic/images/text_editor_demo.png "image showing the text editor")
+![Text editor user interface](https://societyforartisticresearch.github.io/rcblogpublic/images/text_editor_demo.png "image showing the text editor")
