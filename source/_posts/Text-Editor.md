@@ -13,10 +13,12 @@ There is a new type of exposition editor available, which is specifically aimed 
 
 The editor itself consists of a text field on the left side, and a live preview of the result on the right side. Different varieties of media (audio, video, pdf) can be uploaded through a single button (or even dragged and dropped into the drag-and-drop area).
 
-The difference between the graphical editor and the text editor, is that the text editor uses text at the input, instead of graphically positioning objects on a canvas. The text format used is Markdown. Markdown is a widely used, easy-to-read, easy-to-write syntax for formatting plain text. Prior knowledge of Markdown is not required, you can also use the editors buttons to insert the correct formatting. 
+The difference between the graphical editor and the text editor, is that the text editor uses text at the input, instead of graphically positioning objects on a canvas. The text format used is [Markdown](https://en.wikipedia.org/wiki/Markdown). Markdown is a widely used, easy-to-read, easy-to-write syntax for formatting plain text. Prior knowledge of Markdown is not required, you can also use the editors buttons to insert the correct formatting. 
 
 A table of contents is automatically generated, based on the headers present.
 
 Because the source is simple text, we have also been able to provide import and export for a wide variety of formats (Word, pdf, html, text, odt, markdown).
 
 The documentation of the editor can be found [here](https://guide.researchcatalogue.net/#text-based-editor). 
+
+![text_editor_demo](https://societyforartisticresearch.github.io/rcblogpublic/images/text_editor_demo.png "image showing the text editor")
