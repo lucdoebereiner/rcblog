@@ -8,4 +8,4 @@ tags: editor, update, bug-fix
 * When deleting media, user will be promted to confirm.
 * The editor checks for problematic Word doc names.
 
-![media placeholder](https://societyforartisticresearch.github.io/rcblogpublic/images/dont-exist.png "image showing image placeholder")
+![media placeholder](https://societyforartisticresearch.github.io/rcblogpublic/images/dont_exist.png "image showing image placeholder")
