@@ -1,7 +1,7 @@
 ---
 title: update in text editor
 date: 2018-09-20 16:25:48
-tags:
+tags: editor, update, bug-fix
 ---
 
 * Media that doesn't exist is now displayed with a placeholder image.

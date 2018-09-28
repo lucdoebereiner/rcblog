@@ -6,7 +6,7 @@
   <link href="/rcblogpublic/atom.xml" rel="self"/>
   
   <link href="https://societyforartisticresearch.github.io/rcblogpublic/"/>
-  <updated>2018-09-28T13:24:41.835Z</updated>
+  <updated>2018-09-28T13:27:10.467Z</updated>
   <id>https://societyforartisticresearch.github.io/rcblogpublic/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/09/20/update-in-text-editor/"/>
     <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/09/20/update-in-text-editor/</id>
     <published>2018-09-20T14:25:48.000Z</published>
-    <updated>2018-09-28T13:24:41.835Z</updated>
+    <updated>2018-09-28T13:27:10.467Z</updated>
     
     <content type="html"><![CDATA[<ul><li>Media that doesn’t exist is now displayed with a placeholder image.</li><li>When deleting media, user will be promted to confirm.</li><li>The editor checks for problematic Word doc names.</li></ul><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/dont-exist.png" alt="media placeholder" title="image showing image placeholder"></p>]]></content>
     
@@ -39,6 +39,8 @@
     
     </summary>
     
+    
+      <category term="editor, update, bug-fix" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor-update-bug-fix/"/>
     
   </entry>
   
