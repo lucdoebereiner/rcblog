@@ -184,6 +184,32 @@
   </entry>
   
   <entry>
+    <title>SAR on github</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
+    <published>2018-08-05T10:21:30.000Z</published>
+    <updated>2018-08-13T09:57:11.864Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch" target="_blank" rel="noopener">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JAR Issue 0 and 1 migration</title>
     <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/"/>
     <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/</id>
@@ -208,32 +234,6 @@
       <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
       <category term="JAR" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/JAR/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SAR on github</title>
-    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
-    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
-    <published>2018-08-05T10:21:30.000Z</published>
-    <updated>2018-08-13T09:57:11.864Z</updated>
-    
-    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch" target="_blank" rel="noopener">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
   </entry>
   
