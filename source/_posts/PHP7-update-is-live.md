@@ -6,5 +6,6 @@ tags:
  - Source
 ---
 
-The update to PHP7 was completed over the weekned of 20 Oktober.
-Apart from bringing code up to date, there have also been several optimisations which should further improve performance.
+The update to PHP7 was completed over the weekend of 20 Oktober.
+
+Apart from bringing code up to date, there have also been several optimisations added (improved indexing) which should further improve performance. The increase in speed will be most notable in the editor and user lists (administration).
