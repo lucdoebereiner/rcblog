@@ -9,3 +9,6 @@ hexo server
 
 # to generate static files
 hexo generate
+
+# TO UPDATE 
+hexo deploy
