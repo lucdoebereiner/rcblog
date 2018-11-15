@@ -6,7 +6,7 @@
   <link href="/rcblogpublic/atom.xml" rel="self"/>
   
   <link href="https://societyforartisticresearch.github.io/rcblogpublic/"/>
-  <updated>2018-11-07T11:40:54.989Z</updated>
+  <updated>2018-11-15T07:00:22.557Z</updated>
   <id>https://societyforartisticresearch.github.io/rcblogpublic/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Safari autoplay blockade fallback</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/11/15/Safari-autoplay-blockade-fallback/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/11/15/Safari-autoplay-blockade-fallback/</id>
+    <published>2018-11-15T06:57:54.000Z</published>
+    <updated>2018-11-15T07:00:22.557Z</updated>
+    
+    <content type="html"><![CDATA[<p>Recently, in response to abuse by many other websites, Safari now blocks any automatic video playback with sound.<br>We finally have found a way to inform readers of expositions that rely on automatic playback to display a message to start playback manually, ensuring that they can experience the exposition as intented.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Recently, in response to abuse by many other websites, Safari now blocks any automatic video playback with sound.&lt;br&gt;We finally have
+        
+      
+    
+    </summary>
+    
+    
+      <category term="autoplay" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/autoplay/"/>
+    
+      <category term="Safari" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Safari/"/>
+    
+      <category term="blockade" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/blockade/"/>
+    
+      <category term="video" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/video/"/>
+    
+  </entry>
   
   <entry>
     <title>Text-based editor update: safer saving</title>
@@ -271,6 +303,32 @@
   </entry>
   
   <entry>
+    <title>SAR on github</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
+    <published>2018-08-05T10:21:30.000Z</published>
+    <updated>2018-08-13T09:57:11.864Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch" target="_blank" rel="noopener">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JAR Issue 0 and 1 migration</title>
     <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/"/>
     <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/</id>
@@ -295,32 +353,6 @@
       <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
       <category term="JAR" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/JAR/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SAR on github</title>
-    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
-    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
-    <published>2018-08-05T10:21:30.000Z</published>
-    <updated>2018-08-13T09:57:11.864Z</updated>
-    
-    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch" target="_blank" rel="noopener">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
   </entry>
   
