@@ -6,7 +6,7 @@
   <link href="/rcblogpublic/atom.xml" rel="self"/>
   
   <link href="https://societyforartisticresearch.github.io/rcblogpublic/"/>
-  <updated>2018-11-15T07:00:22.557Z</updated>
+  <updated>2018-12-12T14:30:17.286Z</updated>
   <id>https://societyforartisticresearch.github.io/rcblogpublic/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new sharing function</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/new-sharing-function/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/new-sharing-function/</id>
+    <published>2018-12-12T09:11:19.000Z</published>
+    <updated>2018-12-12T14:30:17.286Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have enabled a new way of sharing research: link sharing.<br>It is similar to systems you may know from google drive.<br>When link sharing is enabled, anybody who knows the link has access to your exposition.</p><p>The process is reversable: when the link is disabled, it will become inactive again.<br><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/share-option.jpg" alt="The share option dialog" title="image showing the new share option dialog"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have enabled a new way of sharing research: link sharing.&lt;br&gt;It is similar to systems you may know from google drive.&lt;br&gt;When link
+        
+      
+    
+    </summary>
+    
+    
+      <category term="sharing" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/sharing/"/>
+    
+      <category term="collaboration" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/collaboration/"/>
+    
+      <category term="workflow" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/workflow/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>safer loading</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/safer-loading/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/safer-loading/</id>
+    <published>2018-12-12T09:09:28.000Z</published>
+    <updated>2018-12-12T14:18:18.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have implemented a safer way of loading content, which appears to solve the empty load problem that some users experienced in Chrome.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have implemented a safer way of loading content, which appears to solve the empty load problem that some users experienced in
+        
+      
+    
+    </summary>
+    
+    
+      <category term="text-editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/text-editor/"/>
+    
+      <category term="update" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/update/"/>
+    
+  </entry>
   
   <entry>
     <title>Safari autoplay blockade fallback</title>
@@ -303,32 +361,6 @@
   </entry>
   
   <entry>
-    <title>SAR on github</title>
-    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
-    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
-    <published>2018-08-05T10:21:30.000Z</published>
-    <updated>2018-08-13T09:57:11.864Z</updated>
-    
-    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch" target="_blank" rel="noopener">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
-    
-  </entry>
-  
-  <entry>
     <title>JAR Issue 0 and 1 migration</title>
     <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/"/>
     <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/</id>
@@ -353,6 +385,32 @@
       <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
       <category term="JAR" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/JAR/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SAR on github</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
+    <published>2018-08-05T10:21:30.000Z</published>
+    <updated>2018-08-13T09:57:11.864Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch" target="_blank" rel="noopener">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
     
   </entry>
   
