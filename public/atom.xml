@@ -6,7 +6,7 @@
   <link href="/rcblogpublic/atom.xml" rel="self"/>
   
   <link href="https://societyforartisticresearch.github.io/rcblogpublic/"/>
-  <updated>2018-12-12T14:30:17.286Z</updated>
+  <updated>2018-12-12T14:52:57.073Z</updated>
   <id>https://societyforartisticresearch.github.io/rcblogpublic/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/new-sharing-function/"/>
     <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/new-sharing-function/</id>
     <published>2018-12-12T09:11:19.000Z</published>
-    <updated>2018-12-12T14:30:17.286Z</updated>
+    <updated>2018-12-12T14:52:57.073Z</updated>
     
-    <content type="html"><![CDATA[<p>We have enabled a new way of sharing research: link sharing.<br>It is similar to systems you may know from google drive.<br>When link sharing is enabled, anybody who knows the link has access to your exposition.</p><p>The process is reversable: when the link is disabled, it will become inactive again.<br><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/share-option.jpg" alt="The share option dialog" title="image showing the new share option dialog"></p>]]></content>
+    <content type="html"><![CDATA[<p>We have enabled a new way of sharing research: link sharing.<br>It is similar to link sharing you may know from google drive.</p><p>When link sharing is enabled, anybody who knows the link has access to your exposition.<br>The exposition is not listed anywhere else, one can only reach it through the link.</p><p>The process is reversable: when the option is disabled, the link will no longer provide access to the exposition.<br><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/share-option.jpg" alt="The share option dialog" title="image showing the new share option dialog"></p>]]></content>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
       
         
         
-          &lt;p&gt;We have enabled a new way of sharing research: link sharing.&lt;br&gt;It is similar to systems you may know from google drive.&lt;br&gt;When link
+          &lt;p&gt;We have enabled a new way of sharing research: link sharing.&lt;br&gt;It is similar to link sharing you may know from google
         
       
     
