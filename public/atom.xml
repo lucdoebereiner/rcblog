@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Research Catalogue Development Blog</title>
+  
+  
+  <link href="/rcblogpublic/atom.xml" rel="self"/>
+  
+  <link href="https://societyforartisticresearch.github.io/rcblogpublic/"/>
+  <updated>2019-02-19T08:36:14.673Z</updated>
+  <id>https://societyforartisticresearch.github.io/rcblogpublic/</id>
+  
+  <author>
+    <name>RC Team</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>graphical editor word import</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2019/02/18/graphical-editor-word-import/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2019/02/18/graphical-editor-word-import/</id>
+    <published>2019-02-18T13:06:30.000Z</published>
+    <updated>2019-02-19T08:36:14.673Z</updated>
+    
+    <content type="html"><![CDATA[<p>There is now an automated Word import for the Graphical Editor. The idea is, that one can upload a Word document and it will be automatically split between text and image tools, making it easier to then organise them in any way you like on the weave of the graphical editor.</p><p>More info and instructions how to use can be found in the <a href="https://guide.researchcatalogue.net/#import-word-documents-using-simple-media-upload" title="link to RC guide documentation" target="_blank" rel="noopener">RC guide</a>.</p><video width="480" height="320" controls><br>    <source src="https://sar-announcements.com/rcblog/media/Word_Import_Demo_Blog.mp4" type="video/mp4"><br>    </video>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;There is now an automated Word import for the Graphical Editor. The idea is, that one can upload a Word document and it will be
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Graphical Editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Graphical-Editor/"/>
+    
+      <category term="Word" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Word/"/>
+    
+      <category term="Editing" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Editing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rss feed</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2019/01/28/rss-feed/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2019/01/28/rss-feed/</id>
+    <published>2019-01-28T13:59:31.000Z</published>
+    <updated>2019-05-09T10:57:55.099Z</updated>
+    
+    <content type="html"><![CDATA[<p>There is now an RSS feed, which you can use to be notified when we post something here.</p><p>The link is: <a href="https://societyforartisticresearch.github.io/rcblogpublic/atom.xml">https://societyforartisticresearch.github.io/rcblogpublic/atom.xml</a></p><p>If you do not have an RSS tracker yet, I have listed a few (free) options below:</p><ul><li>FireFox <a href="https://addons.mozilla.org/nl/firefox/addon/feedbroreader/" target="_blank" rel="noopener">FeedBro</a></li><li>Chrome <a href="https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp" target="_blank" rel="noopener">RSS-feed-reader</a></li><li>Apple <a href="https://itunes.apple.com/us/app/rss-bot-news-notifier/id605732865?mt=12" target="_blank" rel="noopener">RSS Bot</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;There is now an RSS feed, which you can use to be notified when we post something here.&lt;/p&gt;
+&lt;p&gt;The link is: &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>new sharing function</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/new-sharing-function/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/new-sharing-function/</id>
+    <published>2018-12-12T09:11:19.000Z</published>
+    <updated>2018-12-12T14:52:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have enabled a new way of sharing research: link sharing.<br>It is similar to link sharing you may know from google drive.</p><p>When link sharing is enabled, anybody who knows the link has access to your exposition.<br>The exposition is not listed anywhere else, one can only reach it through the link.</p><p>The process is reversable: when the option is disabled, the link will no longer provide access to the exposition.<br><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/share-option.jpg" alt="The share option dialog" title="image showing the new share option dialog"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have enabled a new way of sharing research: link sharing.&lt;br&gt;It is similar to link sharing you may know from google
+        
+      
+    
+    </summary>
+    
+    
+      <category term="sharing" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/sharing/"/>
+    
+      <category term="collaboration" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/collaboration/"/>
+    
+      <category term="workflow" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/workflow/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>safer loading</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/safer-loading/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/12/12/safer-loading/</id>
+    <published>2018-12-12T09:09:28.000Z</published>
+    <updated>2018-12-12T14:18:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have implemented a safer way of loading content, which appears to solve the empty load problem that some users experienced in Chrome.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have implemented a safer way of loading content, which appears to solve the empty load problem that some users experienced in
+        
+      
+    
+    </summary>
+    
+    
+      <category term="text-editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/text-editor/"/>
+    
+      <category term="update" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/update/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Safari autoplay blockade fallback</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/11/15/Safari-autoplay-blockade-fallback/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/11/15/Safari-autoplay-blockade-fallback/</id>
+    <published>2018-11-15T06:57:54.000Z</published>
+    <updated>2018-11-15T07:00:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Recently, in response to abuse by many other websites, Safari now blocks any automatic video playback with sound.<br>We finally have found a way to inform readers of expositions that rely on automatic playback to display a message to start playback manually, ensuring that they can experience the exposition as intented.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Recently, in response to abuse by many other websites, Safari now blocks any automatic video playback with sound.&lt;br&gt;We finally have
+        
+      
+    
+    </summary>
+    
+    
+      <category term="autoplay" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/autoplay/"/>
+    
+      <category term="Safari" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Safari/"/>
+    
+      <category term="blockade" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/blockade/"/>
+    
+      <category term="video" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/video/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Text-based editor update: safer saving</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/11/07/Text-based-editor-update-safer-saving/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/11/07/Text-based-editor-update-safer-saving/</id>
+    <published>2018-11-07T11:13:22.000Z</published>
+    <updated>2018-11-07T11:40:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>The saving system of the text editor has been improved. Before saving to the RC servers, the editor will check if a more recent version exists on the remote server. This for example can happen when two collaborators are working on the same exposition at once, or when a user is using more than one tab.</p><p>If a newer version is found, editor will ask user what to do, to minimize chance of unintentially loosing data.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The saving system of the text editor has been improved. Before saving to the RC servers, the editor will check if a more recent version
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Editor/"/>
+    
+      <category term="Text-editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Text-editor/"/>
+    
+      <category term="Update" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Update/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Research Catalogue complete source code available in most recent version.</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/10/30/Recent-version-of-source-code-online/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/10/30/Recent-version-of-source-code-online/</id>
+    <published>2018-10-30T08:42:49.000Z</published>
+    <updated>2018-10-30T10:55:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have updated the <strong>technical information</strong> page. One can download the complete RC source code here:<br><a href="https://www.researchcatalogue.net/portal/technical-information" target="_blank" rel="noopener">https://www.researchcatalogue.net/portal/technical-information</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have updated the &lt;strong&gt;technical information&lt;/strong&gt; page. One can download the complete RC source code here:&lt;br&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="open source" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/open-source/"/>
+    
+      <category term="source code" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/source-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP7 update is complete</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/10/30/PHP7-update-is-live/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/10/30/PHP7-update-is-live/</id>
+    <published>2018-10-30T08:31:05.000Z</published>
+    <updated>2018-10-30T10:54:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>The update to PHP7 was completed over the weekend of 20 Oktober.</p><p>Apart from bringing code up to date, there have also been several optimisations added (improved indexing) which should further improve performance. The increase in speed will be most notable in the editor and user lists (administration).</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The update to PHP7 was completed over the weekend of 20 Oktober.&lt;/p&gt;
+&lt;p&gt;Apart from bringing code up to date, there have also been
+        
+      
+    
+    </summary>
+    
+    
+      <category term="PHP7" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/PHP7/"/>
+    
+      <category term="Source" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/Source/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>update in text editor</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/09/20/update-in-text-editor/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/09/20/update-in-text-editor/</id>
+    <published>2018-09-20T14:25:48.000Z</published>
+    <updated>2018-09-28T18:42:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>Media that doesn’t exist is now displayed with a placeholder image.</li><li>When deleting media, user will be promted to confirm.</li><li>The editor checks for problematic Word doc names.</li></ul><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/dont_exist.png" alt="media placeholder" title="image showing image placeholder"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;Media that doesn’t exist is now displayed with a placeholder image.&lt;/li&gt;
+&lt;li&gt;When deleting media, user will be promted to
+        
+      
+    
+    </summary>
+    
+    
+      <category term="editor, update, bug-fix" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor-update-bug-fix/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>better responsiveness RC front page and profile pages</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/09/20/better-responsiveness-RC-front-page-and-profile-pages/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/09/20/better-responsiveness-RC-front-page-and-profile-pages/</id>
+    <published>2018-09-20T14:04:37.000Z</published>
+    <updated>2018-09-20T14:17:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>The RC frontpage and profile pages have been adjusted to optimize their display on smaller screens. </p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/responsive-front.png" alt="responsive front"></p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/responsive-profile.png" alt="responsive profile"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The RC frontpage and profile pages have been adjusted to optimize their display on smaller screens. &lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Text Editor</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/15/Text-Editor/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/15/Text-Editor/</id>
+    <published>2018-08-15T09:08:00.000Z</published>
+    <updated>2018-08-15T09:12:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>There is a new type of exposition editor available, which is specifically aimed at the creation of expositions where text is the main structural element. Another important aspect is, that the resulting exposition page is responive and thus easier to read on mobile devices. The editor was made on request and with financial support of the <a href="https://nmh.no/en/" target="_blank" rel="noopener">Norwegian Academy of Music</a>. </p><p>The editor itself consists of a text field on the left side, and a live preview of the result on the right side. Different varieties of media (audio, video, pdf) can be uploaded through a single button (or even dragged and dropped into the drag-and-drop area).</p><p>The difference between the graphical editor and the text editor, is that the text editor uses text at the input, instead of graphically positioning objects on a canvas. The text format used is <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener">Markdown</a>. Markdown is a widely used, easy-to-read, easy-to-write syntax for formatting plain text. Prior knowledge of Markdown is not required, you can also use the editors buttons to insert the correct formatting. </p><p>A table of contents is automatically generated, based on the headers present.</p><p>Because the source is simple text, we have also been able to provide import and export for a wide variety of formats (Word, pdf, html, text, odt, markdown).</p><p>The documentation of the editor can be found <a href="https://guide.researchcatalogue.net/#text-based-editor" target="_blank" rel="noopener">here</a>. </p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/text_editor_demo.png" alt="Text editor user interface" title="image showing the text editor"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;There is a new type of exposition editor available, which is specifically aimed at the creation of expositions where text is the main
+        
+      
+    
+    </summary>
+    
+    
+      <category term="editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor/"/>
+    
+      <category term="text" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/text/"/>
+    
+      <category term="import" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/import/"/>
+    
+      <category term="export" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/export/"/>
+    
+      <category term="responsive" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/responsive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 7 Upgrades in Development</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/PHP-7-upgrades/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/PHP-7-upgrades/</id>
+    <published>2018-08-11T00:07:12.000Z</published>
+    <updated>2018-08-13T09:57:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We are currently working on upgrading to PHP 7 and we are in the final testing phase.  We are very much looking forwarding to realising the upgraded version soon.  There will be some major performance improvements….stay tuned.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We are currently working on upgrading to PHP 7 and we are in the final testing phase.  We are very much looking forwarding to realising
+        
+      
+    
+    </summary>
+    
+    
+      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Editor Redesign</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/Editor-Redesign/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/Editor-Redesign/</id>
+    <published>2018-08-10T22:52:02.000Z</published>
+    <updated>2018-08-14T10:21:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and created a more intuitive and cleaner looking layout.  It is possible to sort and search media files in the panel on the right hand side.  This panel can also be collapsed in order to make workspace presentation more similar to final presentation of the exposition.  There are now links to guide and the video tutorials in the editor as well as tool tips.  The tool history is also back and there is a new settings called “Show tool borders”, which controls the display of outlines of tools.  This makes it easier to locate empty tools. </p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/redesign.png" alt="Editor redesign"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;One of the main developments this year has been the redesign of the workspace editor.  We reorganized settings and functionalities and
+        
+      
+    
+    </summary>
+    
+    
+      <category term="editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>General Data Protection Regulation (GDPR) adjustments</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/GDPR/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/11/GDPR/</id>
+    <published>2018-08-10T22:52:02.000Z</published>
+    <updated>2018-08-17T08:25:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>As of 25th of May this year, we have made some adjustments to the RC to make sure we are complient to the requirements of the EU GDPR directive. </p><p>We have also updated the information on our privacy policy, which can be found here:<br><a href="https://www.researchcatalogue.net/portal/privacy" target="_blank" rel="noopener">https://www.researchcatalogue.net/portal/privacy</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;As of 25th of May this year, we have made some adjustments to the RC to make sure we are complient to the requirements of the EU GDPR
+        
+      
+    
+    </summary>
+    
+    
+      <category term="gdpr" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/gdpr/"/>
+    
+      <category term="users" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/users/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAR Issue 0 and 1 migration</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/Jar0-1/</id>
+    <published>2018-08-05T10:21:30.000Z</published>
+    <updated>2018-08-14T10:25:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have migrated the old JAR 0 and 1 expositions to the current RC. These expositions were still in an old RC format, that required us keeping up a secondary copy of the system. Now that the migration has been completed this will open up the possibility of updating the underlying frameworks</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have migrated the old JAR 0 and 1 expositions to the current RC. These expositions were still in an old RC format, that required us
+        
+      
+    
+    </summary>
+    
+    
+      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
+    
+      <category term="JAR" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/JAR/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SAR on github</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/05/SAR-on-github/</id>
+    <published>2018-08-05T10:21:30.000Z</published>
+    <updated>2018-08-13T09:57:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have a new github account that contains source code related the RC (including this blog): <a href="https://github.com/SocietyForArtisticResearch" target="_blank" rel="noopener">https://github.com/SocietyForArtisticResearch</a>. We will soon move the text-based editor to this account as well.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have a new github account that contains source code related the RC (including this blog): &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="development" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/development/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Madek</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/08/03/Madek/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/08/03/Madek/</id>
+    <published>2018-08-03T10:10:23.000Z</published>
+    <updated>2018-08-14T10:21:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We now have our first connection to an external repository: ZHdK’s <em>Medienarchiv der Künste</em> (Madek) <a href="https://medienarchiv.zhdk.ch/" target="_blank" rel="noopener">https://medienarchiv.zhdk.ch/</a>.  In the “Media”-tab on the right hand side of the workspace editor there are three subtabs: “Simple Media”, “Works” and “+”.  Clicking “+” opens a tab where you can establish a link to your Madek account.</p><p>In order to establish a connection to your Madek account, please go to <a href="https://medienarchiv.zhdk.ch/my/tokens" target="_blank" rel="noopener">https://medienarchiv.zhdk.ch/my/tokens</a> and create a new token with reading permissions. Once the token is created please copy it into the respective text field on the RC.  Now you can use any of your publicly visible media files from your Madek account. You drag them onto the workspace editor and they will be copied including title, subtitle, copyright owner and description.</p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/madek.png" alt="Madek Token Creation"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We now have our first connection to an external repository: ZHdK’s &lt;em&gt;Medienarchiv der Künste&lt;/em&gt; (Madek) &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="editor" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/editor/"/>
+    
+      <category term="repositories" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/repositories/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>New Issue Page</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2018/07/31/Issue-Page/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2018/07/31/Issue-Page/</id>
+    <published>2018-07-31T07:41:09.000Z</published>
+    <updated>2018-08-14T10:21:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We have a new responsive issue page for published expositions! This makes it possible to group expositions and display an issue on a particular theme etc. as one entity on the RC. Expositions belonging to a certain issue are grouped and each issue has a thumbnail image and a description. All (published) issues are visible on the portal profile page. By default, however, issue pages are not publicly visible. </p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/issue_page.png" alt="Issue Page"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We have a new responsive issue page for published expositions! This makes it possible to group expositions and display an issue on a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="administration" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/administration/"/>
+    
+      <category term="publishing" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/publishing/"/>
+    
+  </entry>
+  
+</feed>
