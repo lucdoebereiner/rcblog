@@ -56,7 +56,7 @@
     <published>2019-02-18T13:06:30.000Z</published>
     <updated>2019-02-19T08:36:14.673Z</updated>
     
-    <content type="html"><![CDATA[<p>There is now an automated Word import for the Graphical Editor. The idea is, that one can upload a Word document and it will be automatically split between text and image tools, making it easier to then organise them in any way you like on the weave of the graphical editor.</p><p>More info and instructions how to use can be found in the <a href="https://guide.researchcatalogue.net/#import-word-documents-using-simple-media-upload" title="link to RC guide documentation" target="_blank" rel="noopener">RC guide</a>.</p><video width="480" height="320" controls><br>    <source src="https://sar-announcements.com/rcblog/media/Word_Import_Demo_Blog.mp4" type="video/mp4"><br>    </video>]]></content>
+    <content type="html"><![CDATA[<p>There is now an automated Word import for the Graphical Editor. The idea is, that one can upload a Word document and it will be automatically split between text and image tools, making it easier to then organise them in any way you like on the weave of the graphical editor.</p><p>More info and instructions how to use can be found in the <a href="https://guide.researchcatalogue.net/#import-word-documents-using-simple-media-upload" title="link to RC guide documentation" target="_blank" rel="noopener">RC guide</a>.</p><video width="480" height="320" controls>    <source src="https://sar-announcements.com/rcblog/media/Word_Import_Demo_Blog.mp4" type="video/mp4">    </video>]]></content>
     
     <summary type="html">
     
