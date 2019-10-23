@@ -6,7 +6,7 @@
   <link href="/rcblogpublic/atom.xml" rel="self"/>
   
   <link href="https://societyforartisticresearch.github.io/rcblogpublic/"/>
-  <updated>2019-09-20T08:46:41.080Z</updated>
+  <updated>2019-10-23T17:09:22.159Z</updated>
   <id>https://societyforartisticresearch.github.io/rcblogpublic/</id>
   
   <author>
@@ -17,13 +17,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>in revision mode</title>
+    <link href="https://societyforartisticresearch.github.io/rcblogpublic/2019/10/23/in-revision-mode/"/>
+    <id>https://societyforartisticresearch.github.io/rcblogpublic/2019/10/23/in-revision-mode/</id>
+    <published>2019-10-23T16:48:06.000Z</published>
+    <updated>2019-10-23T17:09:22.159Z</updated>
+    
+    <content type="html"><![CDATA[<p>For portal admins:</p><p>It will soon be possible to put an exposition that is being reviewed “in revision”. Once “in revision”  this means the author can change the content, but the exposition remains in the list on the reviewing page (so the admin can keep track of the progress).</p><p>For complete documentation, go to <a href="https://guide.researchcatalogue.net/#in-revision" target="_blank" rel="noopener">revision entry in the RC extended guide</a></p><p><img src="https://societyforartisticresearch.github.io/rcblogpublic/images/revision.png" alt="the in revision dialog"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;For portal admins:&lt;/p&gt;
+&lt;p&gt;It will soon be possible to put an exposition that is being reviewed “in revision”. Once “in revision”  this
+        
+      
+    
+    </summary>
+    
+    
+      <category term="reviewing" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/reviewing/"/>
+    
+      <category term="admin" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/admin/"/>
+    
+      <category term="publication" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/publication/"/>
+    
+      <category term="revision" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/revision/"/>
+    
+  </entry>
+  
+  <entry>
     <title>RSS Feed adjustments and &quot;connect to portal&quot; change</title>
     <link href="https://societyforartisticresearch.github.io/rcblogpublic/2019/09/19/sfeed-adjustments-justments-and-connect-to-portal-change/"/>
     <id>https://societyforartisticresearch.github.io/rcblogpublic/2019/09/19/sfeed-adjustments-justments-and-connect-to-portal-change/</id>
     <published>2019-09-19T20:52:47.000Z</published>
-    <updated>2019-09-20T08:46:41.080Z</updated>
+    <updated>2019-09-20T08:49:26.664Z</updated>
     
-    <content type="html"><![CDATA[<p>We have adjusted feeds, they now include DOI and issue number.</p><p>There have also been two changes in the connect to portal function: </p><p>Expositions which are private can no longer be connected to a portal, the exposition has to be shared in some manner (within the portal, RC or with the public). This to avoid the situation where a user shares (by accident) a private exposition, which would not even be visible to the admin nor to anybody else. The share status is now visible to portal admins under “connection requests”, for better overview of who can see the exposition.</p>]]></content>
+    <content type="html"><![CDATA[<p>We have adjusted feeds, they now include DOI and issue number.</p><p>There have also been two changes in the connect to portal function: </p><p>Expositions which are private can no longer be connected to a portal, the exposition has to be shared in some manner (within the portal, RC or with the public). This to avoid the situation where a user tries to connect (by accident) a private exposition, which would not even be visible to the admin nor to anybody else. The share status is now visible to portal admins under “connection requests”, for better overview of who can see the exposition.</p>]]></content>
     
     <summary type="html">
     
@@ -39,9 +72,9 @@
     </summary>
     
     
-      <category term="sharing" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/sharing/"/>
-    
       <category term="admin" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/admin/"/>
+    
+      <category term="sharing" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/sharing/"/>
     
       <category term="feeds" scheme="https://societyforartisticresearch.github.io/rcblogpublic/tags/feeds/"/>
     
